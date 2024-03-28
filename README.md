@@ -5,4 +5,4 @@ This repo contains random bytes of information that i learned today or found use
 - [Spin Lock](TIL/spin-lock.md)
 - [Transactional Logs](TIL/transactional-logs.md)
 - [Game networking](TIL/game-networking.md)
-- [Pointer Types](TIL/pointer-types)
+- [Pointer Types](TIL/pointer-types.md)
