@@ -118,4 +118,8 @@ What if I am requesting data from the follower B which has some replication lag 
   - So a sequence of writes which are related to each other have to be performed in the same partition.
        
 ##### How to solve the replication Lag?!
-  - Transactions exist in the Db to provide strong guarantees so that application can be simpler. 
+  - Transactions exist in the Db to provide strong guarantees so that application can be simpler.
+
+Reference: 
+
+https://dataintensive.net/
