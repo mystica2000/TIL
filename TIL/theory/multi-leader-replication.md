@@ -72,3 +72,7 @@ In real cases, it rarely makes sense for the multi-leader replication since it i
 
 Circular and Star : goes from one Node to another, and performing its own write and merges with new writes and passes it to the next node (double it and give it to the next person xD)
 It might result in taking longer, what if in-between node goes down or having network issues, it will take more time than usual. 
+
+Reference:
+
+https://dataintensive.net/
